@@ -5,7 +5,7 @@
             <div class="col-lg-12">
                 <nav class="navbar navbar-expand-lg">
                     <a class="navbar-brand" href="javascript:void(0)">
-                        <img src="{{ asset('images/logonav.png') }}"
+                        <img src="{{ secure_asset('images/logonav.png') }}"
 
                             alt="Logo Navbar"
 
