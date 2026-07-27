@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="https://cdn.ayroui.com/1.0/css/starter.css">
 
     <!-- Tu CSS -->
-    <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+    <link rel="stylesheet" href="{{ secure_asset('css/app.css') }}">
 
 
 
