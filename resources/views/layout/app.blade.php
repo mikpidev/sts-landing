@@ -7,33 +7,18 @@
     <title>STS</title>
 
     <!-- Bootstrap -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
 
-    <!--====== Bootstrap CSS ======-->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <!--====== Lineicons CSS as we are using this for icons ======-->
-    <link rel="stylesheet" href="assets/css/lineicons.css" />
-    <!--====== Bootstrap Icons as we are using this for icons ======-->
+    <!-- Devicons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
+    <!-- Lineicons -->
+    <link href="https://cdn.lineicons.com/3.0/lineicons.css" rel="stylesheet">
 
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-    <!--====== Starter Style CSS to make components works ======-->
-    <link rel="stylesheet" href="assets/css/starter.css" />
+    <!-- AyroUI -->
+    <link rel="stylesheet" href="https://cdn.ayroui.com/1.0/css/starter.css">
 
-    <!--====== Bootstrap CSS ======-->
-    <link
-        rel="stylesheet"
-        href="https://cdn.ayroui.com/1.0/css/bootstrap.min.css" />
-
-    <!--====== Lineicons CSS ======-->
-    <link href="https://cdn.lineicons.com/3.0/lineicons.css" rel="stylesheet" />
-
-    <!--====== Style css ======-->
-    <link rel="stylesheet" href="https://cdn.ayroui.com/1.0/css/starter.css" />
-
-
-    <!-- Custom CSS -->
+    <!-- Tu CSS -->
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 
 
