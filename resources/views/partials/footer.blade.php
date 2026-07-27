@@ -7,7 +7,7 @@
                <div class="f-about">
                   <div class="footer-logo">
                      <a href="javascript:void(0)">
-                        <img src="{{ secure_asset('images/logofooter.png') }}" />
+                        <img src="{{ asset('images/logofooter.png') }}" />
                      </a>
                   </div>
                   <p class="text">
