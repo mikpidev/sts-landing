@@ -40,13 +40,7 @@
                                     GET STARTED
                                  </a>
                               </li>
-                              <li>
-                                 <a
-                                    class="btn primary-btn-outline rounded-full"
-                                    href="javascript:void(0)">
-                                    DOWNLOAD
-                                 </a>
-                              </li>
+
                            </ul>
                         </div>
                      </div>
@@ -80,13 +74,7 @@
                                     GET STARTED
                                  </a>
                               </li>
-                              <li>
-                                 <a
-                                    class="btn primary-btn-outline rounded-full"
-                                    href="javascript:void(0)">
-                                    DOWNLOAD
-                                 </a>
-                              </li>
+
                            </ul>
                         </div>
                      </div>
@@ -117,13 +105,6 @@
                                     class="btn primary-btn rounded-full"
                                     href="javascript:void(0)">
                                     GET STARTED
-                                 </a>
-                              </li>
-                              <li>
-                                 <a
-                                    class="btn primary-btn-outline rounded-full"
-                                    href="javascript:void(0)">
-                                    DOWNLOAD
                                  </a>
                               </li>
                            </ul>

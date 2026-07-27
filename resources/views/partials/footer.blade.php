@@ -10,30 +10,8 @@
                         <img src="{{ asset('images/logofooter.png') }}" />
                      </a>
                   </div>
-                  <p class="text">
-                     Lorem Ipsum is simply dummy text of the printing and
-                     typesetting industry.
-                  </p>
                </div>
-               <div class="footer-app-store">
-                  <h5 class="download-title">Download Our App Now!</h5>
-                  <ul>
-                     <li>
-                        <a href="javascript:void(0)">
-                           <img
-                              src="https://cdn.ayroui.com/1.0/images/footer/app-store.svg"
-                              alt="app" />
-                        </a>
-                     </li>
-                     <li>
-                        <a href="javascript:void(0)">
-                           <img
-                              src="https://cdn.ayroui.com/1.0/images/footer/play-store.svg"
-                              alt="play" />
-                        </a>
-                     </li>
-                  </ul>
-               </div>
+
             </div>
             <div class="col-xl-2 col-lg-2 col-sm-4">
                <div class="footer-link">
