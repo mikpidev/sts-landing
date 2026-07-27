@@ -1,74 +1,109 @@
-Estructura de la landing
-1. Navbar
-Logo Software and Telco Solutions
-Inicio
-Servicios
-Nosotros
-Contacto
+# STS Landing Page
 
-2. Hero
+Professional portfolio and digital presence website showcasing software development, cloud infrastructure, backend integrations, and custom business solutions.
 
-Aquí es donde vendes la empresa.
+## Overview
 
-Título:
+STS Landing is a modern portfolio website designed to present software projects, technical services, and engineering capabilities.
 
-Soluciones Tecnológicas para Empresas
+The website highlights experience in:
 
-Subtítulo:
+- Custom software development
+- SaaS platforms
+- Backend engineering
+- Cloud infrastructure
+- API integrations
+- Electronic invoicing solutions
+- Technical consulting
 
-Desarrollo de software, infraestructura cloud, facturación electrónica y soporte tecnológico para impulsar el crecimiento de tu negocio.
+The goal of this project is to provide a professional digital presence that communicates both technical expertise and real-world software solutions.
 
-Botones:
+---
 
-Solicitar Cotización
-Contactar por WhatsApp
-3. Servicios
+## Features
 
-4 tarjetas:
+### Portfolio Showcase
 
-💻 Desarrollo de Software
+- Project presentation with detailed descriptions
+- Technology stack visualization
+- Architecture and workflow diagrams
+- Interactive project galleries
 
-☁️ Cloud & Infraestructura
+### Services Section
 
-📄 Facturación Electrónica
+Showcases professional services including:
 
-🛠️ Soporte Técnico
+- Custom software development
+- Backend systems
+- Cloud infrastructure support
+- REST API integrations
+- Technical maintenance and consulting
 
-No pongas párrafos enormes. 2 o 3 líneas por servicio.
+### Responsive Design
 
-4. ¿Por qué elegirnos?
-Experiencia técnica
-Soluciones escalables
-Seguridad empresarial
-Soporte personalizado
-5. Tecnologías
+- Fully responsive layout
+- Optimized for desktop, tablet, and mobile devices
+- Modern UI components
 
-Muestra logos de:
+---
 
-PHP
-Laravel
-MySQL
-Docker
-Linux
-Oracle Cloud
+## Featured Projects
 
-Esto genera confianza rápidamente.
+### Gestock - Multi-tenant Business Management SaaS
 
-6. CTA
+A scalable business management platform designed to support different industries.
 
-Una sección antes del footer:
+Features:
 
-¿Listo para modernizar tu negocio?
+- Multi-tenant architecture
+- Inventory management
+- Sales management
+- Customer administration
+- Reports and analytics
+- Electronic invoicing integration
+- Role-based access control
 
-Botón:
 
-Solicitar una consulta
+### Hacienda DTE Integration Service
 
-7. Contacto
-Correo
-WhatsApp
-Formulario
-Redes sociales
-8. Footer
+Backend integration service developed for electronic tax document processing.
 
-Información legal y enlaces rápidos.
+Features:
+
+- DTE JSON generation
+- Hacienda API communication
+- Digital signature workflow
+- Document validation
+- External service integration
+- Response processing
+
+---
+
+## Technologies
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+### Backend & Integration Experience
+
+- Laravel
+- PHP
+- MySQL
+- REST APIs
+- JSON
+- Docker
+- Oracle Cloud Infrastructure
+
+### Development Tools
+
+- Git
+- Postman
+- Visual Studio Code
+
+---
+
+## Project Structure
