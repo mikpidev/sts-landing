@@ -65,7 +65,7 @@ https://i.ibb.co/8LrHsm3V/monge.jpg
                         </a>
                      </li> -->
                      <li>
-                        <a href="javascript:void(0)">
+                        <a href="https://www.linkedin.com/in/christian-chacon-77474423b/">
                         <i class="lni lni-linkedin-original"></i>
                         </a>
                      </li>
